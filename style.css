@@ -66,6 +66,7 @@ button {
     background-color: purple;
     color: white;
     border: none;
+    text-decoration: none;
     padding: 15px 0px;
     width: 38%;
     font-family: monospace;
