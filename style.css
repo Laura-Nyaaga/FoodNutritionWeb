@@ -68,11 +68,16 @@ button {
     border: none;
     text-decoration: none;
     padding: 15px 0px;
-    width: 38%;
+    width: 30%;
     font-family: monospace;
     font-weight: 600;
     align-self: center;
-    margin-left: 150px;
+    margin-left: 80px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
 
 ::placeholder {
